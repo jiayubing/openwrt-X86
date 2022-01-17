@@ -11,6 +11,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 
 src-git music https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
 src-git vssr https://github.com/jerrykuku/luci-app-vssr
-git-git maxminddb https://github.com/jerrykuku/lua-maxminddb
+src-git maxminddb https://github.com/jerrykuku/lua-maxminddb
 src-git helloworld https://github.com/fw876/helloworld
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
