@@ -7,10 +7,11 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-#src-git small8 https://github.com/kenzok8/small-package
 
-src-git music https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
-src-git vssr https://github.com/jerrykuku/luci-app-vssr
-src-git maxminddb https://github.com/jerrykuku/lua-maxminddb
-src-git helloworld https://github.com/fw876/helloworld
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git small8 https://github.com/kenzok8/small-package
+
+#src-git music https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
+#src-git vssr https://github.com/jerrykuku/luci-app-vssr
+#src-git maxminddb https://github.com/jerrykuku/lua-maxminddb
+#src-git helloworld https://github.com/fw876/helloworld
+#src-git passwall https://github.com/xiaorouji/openwrt-passwall
